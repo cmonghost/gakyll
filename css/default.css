@@ -54,7 +54,6 @@ a {
 
 a:hover {
 	background: #f0f0ff;
-	font-size: 1em;
 	text-decoration: underline;
 }
 
@@ -76,7 +75,6 @@ nav a {
 nav a:hover{
     font-size: 1.8rem;
     font-weight: bold;
-	color: #703820;
     text-decoration: none;
     text-transform: uppercase;
 	background: #f4ebe7;
@@ -128,7 +126,6 @@ article .header {
 }
 
 .logo a:hover{
-    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
@@ -136,7 +133,6 @@ article .header {
 }
 
 .logo a:active{
-    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
