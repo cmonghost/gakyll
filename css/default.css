@@ -44,7 +44,6 @@ nav {
 
 a {
 	color: #1e6b8c;
-	font-size: 1em;
 	text-decoration: none;
 	transition-delay: 0.1s;
 	transition-duration: 0.3s;
@@ -71,7 +70,6 @@ nav a {
 }
 
 nav a:hover{
-    font-size: 1.8rem;
     font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
@@ -79,7 +77,6 @@ nav a:hover{
 }
 
 nav a:active{
-    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
@@ -125,7 +122,6 @@ article .header {
 }
 
 .logo a:hover{
-    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
@@ -133,7 +129,6 @@ article .header {
 }
 
 .logo a:active{
-    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
@@ -188,6 +183,9 @@ article .header {
     .logo {
         text-align: center;
         margin: 1rem auto 3rem;
+    }
+    .logo a {
+        font-size: 2.4rem;
     }
     .logo a {
         font-size: 2.4rem;
