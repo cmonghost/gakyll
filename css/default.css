@@ -120,12 +120,14 @@ article .header {
 }
 
 .logo a {
+    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
 }
 
 .logo a:hover{
+    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
@@ -133,6 +135,7 @@ article .header {
 }
 
 .logo a:active{
+    font-size: 1.8rem;
     font-weight: bold;
 	color: #703820;
     text-decoration: none;
