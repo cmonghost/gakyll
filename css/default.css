@@ -78,7 +78,8 @@ nav a:hover{
 
 nav a:active{
     font-weight: bold;
-	color: #703820;
+	color: #FFFFF6;
+    background: #703820;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -130,7 +131,8 @@ article .header {
 
 .logo a:active{
     font-weight: bold;
-	color: #703820;
+	color: #FFFFF6;
+    background: #703820;
     text-decoration: none;
 }
 
