@@ -4,3 +4,4 @@ dist/
 _cache
 .stack-work
 git-ftp.py
+public_html
